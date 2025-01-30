@@ -1,4 +1,4 @@
-# RockPaperScissorsGame
+# Rock Paper Scissors Game:
 This is a somple Rock Paper Scissors Game created with Python and CustomTkinter.
 
 # Screenshots:
